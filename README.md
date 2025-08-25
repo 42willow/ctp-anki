@@ -25,7 +25,7 @@
 	- Copy the code on the webpage.
 	- In Anki, go to Tools > Addons > Get Addons and paste the code
 2. Go into Tools > Addons > ReColor > Config > Advanced
-3. Find the scheme you want [here](https://github.com/catppuccin/anki/tree/main/themes/) and copy the entire contents.
+3. Find the theme you want [here](https://github.com/catppuccin/anki/tree/main/themes/) and copy the entire contents.
 4. Paste them into the ReColor advanced config menu.
 
 ### Method 2
@@ -34,8 +34,9 @@
 	- Copy the code on the webpage.
 	- In Anki, go to Tools > Addons > Get Addons and paste the code
 3. Go into Tools > Addons > ReColor > View Files
-4. Copy the themes directory from the anki repository into the ReColor files.
-5. Go into Tools > Addons > ReColor > Config > Themes and choose latte, frappe, macchiato, or mocha
+4. Copy your chosen theme from the `themes/` directory into the ReColor files.
+5. Go into Tools > Addons > ReColor > Config > Themes and choose the name of the theme you copied.
+
 <details>
 	<summary>Plugins used in screenshot:</summary>
 	<ul>
